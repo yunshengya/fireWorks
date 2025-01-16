@@ -2,7 +2,8 @@
 
 注意：此源码是基于 [XgpNwb](https://codepen.io/MillerTime/pen/XgpNwb) 的二次修改
 
-我仅作翻译处理以及其他优化
+仅个人学习使用！！！
+
 
 Demo 1：https://nianbroken.github.io/Firework_Simulator/
 
